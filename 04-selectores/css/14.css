@@ -1,0 +1,5 @@
+
+
+p:not(.texto):not(.oferta) {
+    color: blue;
+}
